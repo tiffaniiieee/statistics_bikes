@@ -21,4 +21,4 @@ scatter.smooth(resid(initial.bike.fit) ~ predict(initial.bike.fit)) # residual p
 # box cox transformation
 boxcox(initial.bike.fit) # choose lambda = 0.75
 
-
+#haha
